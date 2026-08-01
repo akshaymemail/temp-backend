@@ -4,9 +4,7 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon",
-    "build": "tsc && tsc-alias",
-    "start": "node dist/entry.mjs"
+    "dev": "nodemon"
   },
   "keywords": [],
   "author": "",
