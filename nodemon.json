@@ -1,0 +1,5 @@
+{
+  "watch": ["src"],
+  "ext": "mts,ts",
+  "exec": "cross-env NODE_ENV=local node --import=tsx entry.mts"
+}
